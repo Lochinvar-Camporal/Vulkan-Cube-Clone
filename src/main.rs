@@ -1,5 +1,5 @@
 mod vulkan_app;
-use vulkan_app::{VulkanApp, WIDTH, HEIGHT};
+use vulkan_app::{VulkanApp, HEIGHT, WIDTH};
 use winit::event::{Event, WindowEvent};
 use winit::event_loop::{ControlFlow, EventLoop};
 use winit::window::WindowBuilder;
